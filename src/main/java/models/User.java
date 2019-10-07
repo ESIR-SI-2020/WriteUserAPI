@@ -7,6 +7,7 @@ public class User {
     String email;
     String photoUrl;
     String bio;
+    String Password;
     Address address;
     List<String> friendsId;
 }
